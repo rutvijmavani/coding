@@ -16,3 +16,4 @@ shape = Shape()
 square = Square(5)
 
 print("Area of Shape:", shape.area())  
+print("Area of Square:", square.area()) 
